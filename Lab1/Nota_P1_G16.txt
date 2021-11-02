@@ -1,0 +1,18 @@
+
+Clases(20%)	Atributos(20%)	constructor y parámetros(10%)	Métodos y parámetros(30%)	Scope (private o públic)(10%)	Report(10%)	FINAL
+10	10	10	10	10	9,5	9,95
+
+En el report se recomienda añadir imagenes de los métodos creados para poder acompañar de forma más visual la explicación dada. El apartado 3 esta muy bien presentado.
+
+El código se encuentra documentado y se ejecuta correctamente.
+
+
+
+
+
+
+
+
+
+
+
