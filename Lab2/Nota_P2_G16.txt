@@ -1,0 +1,8 @@
+
+Clases(20%)	Atributos(20%)	constructor y parámetros(10%)	Métodos y parámetros(30%)	Scope (private o públic)(10%)	Report(10%)	FINAL
+
+10	10	10	10	10	10	10
+
+El report es correcto. Buen trabajo.
+El código se encuentra muy bien documentado. =)
+La ejecución es correcta.
