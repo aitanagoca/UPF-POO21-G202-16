@@ -1,0 +1,6 @@
+
+Clases(20%)	Atributos(20%)	constructor y parámetros(10%)	Métodos y parámetros(30%)	Scope (private o públic)(10%)	Report(10%)	FINAL   factor de multiplicación     NOTA FINAL después del factor
+10	10	10	10	10	10	10	1	10
+
+El informe esta bien realizado y el código documentado.
+La ejecución del programa es correcto.
