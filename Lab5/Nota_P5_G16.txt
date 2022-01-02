@@ -1,0 +1,9 @@
+
+Clases(20%)	Atributos(20%)	constructor y parámetros(10%)	Métodos y parámetros(30%)	Scope (private o públic)(10%)	Report(10%)	FINAL   factor de multiplicación     NOTA FINAL después del factor
+10,00	10,00	10,00	8,00	10,00	10	9,4	0,8	7,52
+
+El código se encuentra documentado. El report es correcto.
+
+El programa muestra fallos, por ejemplo si yo compro un libro y le doy check out, la primera vez es correcto, me muestra que pago el valor del libro, pero después de realizar el check out y sin escoger ningún otro libro, si vuelvo a presionar check out me vuelve a salir que debo de pagar la cantidad anterior.
+Después también después de realizar eso, vuelvo a seleccionar otro libro y entonces la cantidad que me aparece es la suma de la compra anterior y la nueva compra.
+Se valora código y se utiliza factor de penalizacion 0,8 por los fallos mencionados. 
